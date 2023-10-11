@@ -1,6 +1,6 @@
 # Projeto de Markdown
 
-**O site contará com uma explicação de fatos e acontecimentos em cada album da cantora Taylor Swift, com informações detalhadas e atualizadas para cada uma de suas diferentes 'eras'.**  
+**O site vai contar com a explicação de vários fatos e acontecimentos em cada album da cantora Taylor Swift, com informações detalhadas e atualizadas para cada uma de suas diferentes 'eras'.**  
 
 *Site desenvolvido por: Yasmin da Rocha Lopes*  
 
